@@ -1,0 +1,74 @@
+{
+  "paper": {
+    "label": "米白纸感",
+    "colors": {
+      "text": "#2B2B2B",
+      "sub": "#8A8580",
+      "accent": "#B4552D",
+      "accent_soft": "#F3E6DE",
+      "soft": "#FAF8F3",
+      "card_bg": "#FFFFFF",
+      "line": "#E6E1D8",
+      "body2": "#4A463F",
+      "quote": "#5A554E"
+    },
+    "font": {
+      "body": 16,
+      "lh": 1.8,
+      "ls": 0.5,
+      "h2": 19,
+      "h3": 17,
+      "lead": 17,
+      "caption": 13
+    },
+    "radius": 10
+  },
+  "ink": {
+    "label": "黑白杂志",
+    "colors": {
+      "text": "#1A1A1A",
+      "sub": "#6B6B6B",
+      "accent": "#C0392B",
+      "accent_soft": "#F7E7E4",
+      "soft": "#F5F5F5",
+      "card_bg": "#FFFFFF",
+      "line": "#E4E4E4",
+      "body2": "#3D3D3D",
+      "quote": "#4A4A4A"
+    },
+    "font": {
+      "body": 16,
+      "lh": 1.75,
+      "ls": 0.5,
+      "h2": 20,
+      "h3": 17,
+      "lead": 18,
+      "caption": 13
+    },
+    "radius": 4
+  },
+  "mint": {
+    "label": "科技薄荷",
+    "colors": {
+      "text": "#1F2933",
+      "sub": "#6B7A78",
+      "accent": "#0F766E",
+      "accent_soft": "#D7EDE9",
+      "soft": "#F1F6F5",
+      "card_bg": "#FFFFFF",
+      "line": "#DCE6E4",
+      "body2": "#2C3A38",
+      "quote": "#3E4A48"
+    },
+    "font": {
+      "body": 16,
+      "lh": 1.8,
+      "ls": 0.5,
+      "h2": 19,
+      "h3": 17,
+      "lead": 17,
+      "caption": 13
+    },
+    "radius": 8
+  }
+}

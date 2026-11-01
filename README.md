@@ -7,6 +7,18 @@
 
 ---
 
+## ⬇️ 下载 / Download
+
+| | 链接 |
+|---|---|
+| **完整安装包 v1.2.0** | [xiumi-wechat-article-skill-1.2.0.zip](https://github.com/MansonLi2007/xiumi-wechat-article-skill/releases/latest/download/xiumi-wechat-article-skill-1.2.0.zip) |
+| **最新源码** | [main.zip](https://github.com/MansonLi2007/xiumi-wechat-article-skill/archive/refs/heads/main.zip) |
+| **Git 克隆** | `git clone https://github.com/MansonLi2007/xiumi-wechat-article-skill.git` |
+
+下载后解压，Windows 双击 `install.cmd`，macOS / Linux 运行 `sh install.sh`。
+Unzip, then run `install.cmd` on Windows or `sh install.sh` on macOS / Linux.
+
+
 ## 中文说明
 
 ### 这是什么
